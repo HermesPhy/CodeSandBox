@@ -1,2 +1,1 @@
 # MeuCurriculo
-Created with CodeSandbox
