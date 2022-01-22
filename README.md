@@ -1,2 +1,2 @@
-# CodeSandBox
+# MeuCurriculo
 Created with CodeSandbox
